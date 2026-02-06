@@ -96,3 +96,6 @@ SELECT * FROM import_centros;
 ```
 
 Se deben ver los datos importados correctamente.
+
+<img width="1365" height="636" alt="Captura de pantalla 2026-02-06 132114" src="https://github.com/user-attachments/assets/d3b7ae9e-4378-4163-b6d7-ed64b536600f" />
+
